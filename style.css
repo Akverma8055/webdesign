@@ -1,0 +1,52 @@
+.container
+{
+
+}
+.header
+{
+	background: rgba(21,25,222,0);
+}
+.nav-item:hover{
+	border-bottom: 2px solid blue;
+	/* border-radius: 30%; */
+	color: white;
+}
+.card
+{
+	  background: linear-gradient(to bottom, #6666ff 0%, #cc66ff 100%);
+
+}
+.black{		
+background: rgba(0,0,0,0.8);	
+}
+.fa
+{
+	font-size: 2em;
+	
+	border-radius: 50%;
+
+}
+
+body
+{
+
+    background: linear-gradient(to bottom, #00ccff 0%, #6600cc 100%);
+	overflow:scroll;
+}
+.testi
+{
+	background: rgba(0,0,0,0.4);	
+}
+.drop-item
+{
+	background:rgba(21,25,222,0);
+	color:white;
+}
+.active{
+	color:white;
+	border-bottom:2px solid blue;
+}
+.insta
+{
+	color: white;
+}
